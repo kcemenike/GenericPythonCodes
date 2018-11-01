@@ -9,13 +9,13 @@ pip install [module] without the square braces
 The underscore is a really powerful tool. You may have seen it in your introduction to Object Oriented Programming (OOP) in Python (def __init__(self): or something like this) or in other applications, but this notebook tries to descrive a few uses of the underscore character in Python
 1. Interpreter
 2. Variable
-  a. Ignore Element in iterable\n
-  b. Ignore multiple elements in iterable\n
-  c. Loop variable / List comprehensions / Lambda functions etc\n
-3. BaseX number representation
+  a. Ignore Element in iterable<br>
+  b. Ignore multiple elements in iterable<br>
+  c. Loop variable / List comprehensions / Lambda functions etc<br>
+3. BaseX number representation<br>
 4. In OOP (object oriented programming)
-  a. Single leading underscore e.g. \_var\n
-  b. Single Trailing and Double trailing Underscore e.g. var\_ and var\_\_\n
-  c. Double leading underscore e.g. \_\_var\n
-  d. Reverse data mangling\n
+  a. Single leading underscore e.g. \_var<br>
+  b. Single Trailing and Double trailing Underscore e.g. var\_ and var\_\_<br>
+  c. Double leading underscore e.g. \_\_var<br>
+  d. Reverse data mangling<br>
 5. Double Leading and Trailing Underscores e.g. \_\_var\_\_
