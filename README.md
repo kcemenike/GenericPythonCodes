@@ -19,3 +19,6 @@ The underscore is a really powerful tool. You may have seen it in your introduct
   c. Double leading underscore e.g. \_\_var<br>
   d. Reverse data mangling<br>
 5. Double Leading and Trailing Underscores e.g. \_\_var\_\_
+
+## Random Letter and Random String Generator using random.choice
+This code generates a random letter and a random string of length n
