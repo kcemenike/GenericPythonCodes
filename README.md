@@ -22,3 +22,8 @@ The underscore is a really powerful tool. You may have seen it in your introduct
 
 ## Random Letter and Random String Generator using random.choice
 This code generates a random letter and a random string of length n
+
+### 3 ways to reverse a list
+1. Using reverse()
+2. Using reversed()
+3. Using list slicing [::-1]
