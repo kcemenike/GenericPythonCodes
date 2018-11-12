@@ -27,3 +27,6 @@ This code generates a random letter and a random string of length n
 1. Using reverse()
 2. Using reversed()
 3. Using list slicing [::-1]
+
+# Machine Learning basics using the Iris dataset
+The Iris dataset was used, and the RandomForest classifier is the model. Model accuracy is 96%
