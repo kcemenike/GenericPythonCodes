@@ -23,10 +23,14 @@ The underscore is a really powerful tool. You may have seen it in your introduct
 ## Random Letter and Random String Generator using random.choice
 This code generates a random letter and a random string of length n
 
-### 3 ways to reverse a list
+## 3 ways to reverse a list
 1. Using reverse()
 2. Using reversed()
 3. Using list slicing [::-1]
 
-# Machine Learning basics using the Iris dataset
+## Machine Learning basics using the Iris dataset
 The Iris dataset was used, and the RandomForest classifier is the model. Model accuracy is 96%
+
+## Pandas Melt and Pandas Pivot
+How to "melt" a column (or multiple columns) into individual rows i.e. transforming variables (or features) into observations (or labels) depending on your point of view :-)
+The last block of code shows how to use get method to extract data from strings in columns of a dataframe (hope this makes sense)
