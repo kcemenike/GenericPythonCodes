@@ -1,10 +1,10 @@
 # GenericPythonCodes
 This is just a repo of generic python codes, mostly housed in iPython notebooks.
-
+***
 # Prerequisite(s)
 I shall do as much as I can to insert all required modules as import statements on the first line of the notebook. They are mostly popularly known modules - if you get any error while trying to run this first line, just run:
 pip install [module] without the square braces
-
+***
 ## Understanding Underscores in Python
 The underscore is a really powerful tool. You may have seen it in your introduction to Object Oriented Programming (OOP) in Python (def __init__(self): or something like this) or in other applications, but this notebook tries to descrive a few uses of the underscore character in Python
 1. Interpreter
@@ -19,26 +19,25 @@ The underscore is a really powerful tool. You may have seen it in your introduct
   c. Double leading underscore e.g. \_\_var<br>
   d. Reverse data mangling<br>
 5. Double Leading and Trailing Underscores e.g. \_\_var\_\_
-
+***
 ## Random Letter and Random String Generator using random.choice
 This code generates a random letter and a random string of length n
-
+***
 ## 3 ways to reverse a list
 1. Using reverse()
 2. Using reversed()
 3. Using list slicing [::-1]
-
+***
 ## Machine Learning basics using the Iris dataset
 The Iris dataset was used, and the RandomForest classifier is the model. Model accuracy is 96%
-
+***
 ## Pandas Melt and Pandas Pivot
 How to "melt" a column (or multiple columns) into individual rows i.e. transforming variables (or features) into observations (or labels) depending on your point of view :-)
 The last block of code shows how to use get method to extract data from strings in columns of a dataframe (hope this makes sense)
-
+***
 ## Linear Programming with Python - [AnalyticsVidhya](#) <design by kcEmenike>
 
 ### Case Study: Creating a TED watchlist of videos
-***
 
 TED publishes hundreds of videos in various languages, and because there are so many videos and so little time available, I intend to maximise my use of time to watch as many videos as possible.
 
@@ -53,13 +52,12 @@ How can I maximise the little time to make a decision on which video to watch?
 
 *The dataset is available at [rounakbanik/ted-talks](https://www.kaggle.com/rounakbanik/ted-talks) on Kaggle*
 
-***
 ### Table of Content
 - Import items
 - Get data
 - Choose important data for analytics
 - Create optimisation object from PuLP and define optimisation problem type (minimisation or maximisation)
 - Define constraints
-- [Run optimisation and write results to LP file
+- Run optimisation and write results to LP file
 - Convert optimisation result to readable decision-making format
 - Show optimisation result
