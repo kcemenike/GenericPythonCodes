@@ -34,3 +34,32 @@ The Iris dataset was used, and the RandomForest classifier is the model. Model a
 ## Pandas Melt and Pandas Pivot
 How to "melt" a column (or multiple columns) into individual rows i.e. transforming variables (or features) into observations (or labels) depending on your point of view :-)
 The last block of code shows how to use get method to extract data from strings in columns of a dataframe (hope this makes sense)
+
+## Linear Programming with Python - [AnalyticsVidhya](#) <design by kcEmenike>
+
+### Case Study: Creating a TED watchlist of videos
+***
+
+TED publishes hundreds of videos in various languages, and because there are so many videos and so little time available, I intend to maximise my use of time to watch as many videos as possible.
+
+The objective is:
+- Decide on which talk to watch (i.e. to watch or not to watch a talk) so that I watch the highest number of videos
+
+**Constraints are such that:**
+- <font color=red>Only 10 hours are available for all videos</font>
+- <font color=red>I can only watch 25 videos</font>
+
+How can I maximise the little time to make a decision on which video to watch?
+
+*The dataset is available at [rounakbanik/ted-talks](https://www.kaggle.com/rounakbanik/ted-talks) on Kaggle*
+
+***
+### Table of Content
+- [Import items](#import-items)
+- [Get data](#get-data)
+- [Choose important data for analytics](#choose-data)
+- [Create optimisation object from PuLP and define optimisation problem type (minimisation or maximisation)](#create-lp-object)
+- [Define constraints](#constraints)
+- [Run optimisation and write results to LP file](#run-lp-optimisation)
+- [Convert optimisation result to readable decision-making format](#convert-optimisation)
+- [Show optimisation result](#show-lp-result)
