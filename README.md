@@ -55,11 +55,11 @@ How can I maximise the little time to make a decision on which video to watch?
 
 ***
 ### Table of Content
-- [Import items](#import-items)
-- [Get data](#get-data)
-- [Choose important data for analytics](#choose-data)
-- [Create optimisation object from PuLP and define optimisation problem type (minimisation or maximisation)](#create-lp-object)
-- [Define constraints](#constraints)
-- [Run optimisation and write results to LP file](#run-lp-optimisation)
-- [Convert optimisation result to readable decision-making format](#convert-optimisation)
-- [Show optimisation result](#show-lp-result)
+- Import items
+- Get data
+- Choose important data for analytics
+- Create optimisation object from PuLP and define optimisation problem type (minimisation or maximisation)
+- Define constraints
+- [Run optimisation and write results to LP file
+- Convert optimisation result to readable decision-making format
+- Show optimisation result
