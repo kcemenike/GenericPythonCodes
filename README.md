@@ -61,3 +61,15 @@ How can I maximise the little time to make a decision on which video to watch?
 - Run optimisation and write results to LP file
 - Convert optimisation result to readable decision-making format
 - Show optimisation result
+***
+## A primer on Regex and NLTK (Natural Language Toolkit)
+This is an introduction to Regular Expressiosn (regex) and how to use it to extract word paterns from large datasets. I've used the opportunity to also include an introduction to the Natural Language Toolkit, to show how to "tokenize" words and sentences in a dataset.
+- Basic regex
+- regex patterns
+- Intermediate regex
+- NLTK tokenization
+- word tokenization
+- sentence tokenization
+- regex tokenization
+- regex tokenization using "\w+" versus word tokenization
+- Exercise: Histogram plot of word frequency per line in dataset
