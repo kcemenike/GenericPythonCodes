@@ -1,4 +1,4 @@
-# GenericPythonCodes
+# Interesting Python Codes
 This is just a repo of generic python codes, mostly housed in iPython notebooks.
 ***
 # Prerequisite(s)
@@ -73,3 +73,7 @@ This is an introduction to Regular Expressiosn (regex) and how to use it to extr
 - regex tokenization
 - regex tokenization using "\w+" versus word tokenization
 - Exercise: Histogram plot of word frequency per line in dataset
+***
+## Get focus word of any web page using NLTK - a case study of bbc.com/sport
+Using NLTK, I've been able to detect the focus words of any web page (should prove useful in search engine optimsation, SEO). Case study is BBC.co.uk
+Edit: There's a known bug on line 7 that dangerously assumes the content of the text is between index 3 and -5. This may make the code to fail in other situations, so you may disable this slicing (just delete the [3:-5] from the line
