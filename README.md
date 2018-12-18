@@ -77,3 +77,6 @@ This is an introduction to Regular Expressiosn (regex) and how to use it to extr
 ## Get focus word of any web page using NLTK - a case study of bbc.com/sport
 Using NLTK, I've been able to detect the focus words of any web page (should prove useful in search engine optimsation, SEO). Case study is BBC.co.uk
 Edit: There's a known bug on line 7 that dangerously assumes the content of the text is between index 3 and -5. This may make the code to fail in other situations, so you may disable this slicing (just delete the [3:-5] from the line
+***
+## Generate a list (or string) of the English Alphabet
+This code is just a way to generate a list of the English alphabet (from a to z) if you want to use it in future reference (say, in a regular expression pattern to check if a character is in the English alphabet, though there are other more elegant ways to do this)
