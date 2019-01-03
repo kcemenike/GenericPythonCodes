@@ -80,3 +80,7 @@ Edit: There's a known bug on line 7 that dangerously assumes the content of the 
 ***
 ## Generate a list (or string) of the English Alphabet
 This code is just a way to generate a list of the English alphabet (from a to z) if you want to use it in future reference (say, in a regular expression pattern to check if a character is in the English alphabet, though there are other more elegant ways to do this)
+
+***
+## Linear Programming for beginner level beginners
+This section is a response to some requests that the previously posted LP codes were not beginner friendly enough. I hope this is more beginner friendly, as it takes you from the very basic linear optimisation to the more complicated and various types of linear optimisation problems in the real world
