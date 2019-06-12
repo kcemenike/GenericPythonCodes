@@ -84,3 +84,13 @@ This code is just a way to generate a list of the English alphabet (from a to z)
 ***
 ## Linear Programming for beginner level beginners
 This section is a response to some requests that the previously posted LP codes were not beginner friendly enough. I hope this is more beginner friendly, as it takes you from the very basic linear optimisation to the more complicated and various types of linear optimisation problems in the real world
+
+***
+## Read big data with pandas
+### Read data from large datasets using the chunksize parameter
+
+This mini-tut shows how to read data from a very large dataset (I've also added a line to split it into multiple CSV files (so that it's easier to read over Excel
+
+Recall that the chunksize returns an iterable, so once a portion is read, it is "junked"
+
+This sample file has 7million rows and 10 features, and so far, Excel, Power Tools (Power Query etc) have struggled... So here comes Python to the rescue!
