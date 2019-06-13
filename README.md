@@ -86,7 +86,7 @@ This code is just a way to generate a list of the English alphabet (from a to z)
 This section is a response to some requests that the previously posted LP codes were not beginner friendly enough. I hope this is more beginner friendly, as it takes you from the very basic linear optimisation to the more complicated and various types of linear optimisation problems in the real world
 
 ***
-## Read big data with pandas
+## [Read big data with pandas](../blob/master/chunksize.ipynb "Read big data with pandas")
 ### Read data from large datasets using the chunksize parameter
 
 This mini-tut shows how to read data from a very large dataset (I've also added a line to split it into multiple CSV files (so that it's easier to read over Excel
